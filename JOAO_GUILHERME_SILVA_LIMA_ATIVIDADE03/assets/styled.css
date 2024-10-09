@@ -26,8 +26,11 @@
 .pe{
     border: solid salmon;background-color: crimson;
     justify-content: center;display: flex;
-    padding: 10px; width: 600px;
-    margin: 450px 0px 0px 0px;
+    padding: 10px; width: 800px;
+    margin: 400px 0px 0px 0px;
 }
 /*esse caixa acima deu dor de cabeça. Primeiro para acertar os px dela para encaixar e dps a largrua
 sempre q alterava era uns 2 ou 5 de diferença*/
+/*ele me venceu, por algum motivo qnd aumento a qntd de px ele desce dms, ai qnd eu diminuio ele fica
+muito em cima das outras caixas ai, qnd diminuio um pouco mais tipos uns 5 px ele sobe pakrl, simplesmente me ganhou
+na guerra*/
