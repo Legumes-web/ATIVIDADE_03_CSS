@@ -1,0 +1,33 @@
+.cabecalho{
+    background-color: blueviolet;
+    justify-content: center;border: solid red
+    ;padding: 10px; width: 800px; display: flex;
+}
+.navegacao{
+    background-color: tomato; border: solid yellow
+    ; padding: 10px; width: 800px;
+    display: grid; justify-content: center;
+}
+.secao{
+    border: solid brown
+    ;background-color: aqua;display: flex;
+    padding: 10px;width: 400px;height: 110px
+    ;justify-content: center;
+}
+.lado{
+    border: solid black;background-color: chartreuse
+    ;justify-content: center;
+    margin: -136px -400px -425px 425px;
+    padding: 10px; width: 375px;
+    height: 110px; 
+    display: flex;
+}
+
+.pe{
+    border: solid salmon;background-color: crimson;
+    justify-content: center;display: flex;
+    padding: 10px; width: 600px;
+    margin: 450px 0px 0px 0px;
+}
+/*esse caixa acima deu dor de cabeça. Primeiro para acertar os px dela para encaixar e dps a largrua
+sempre q alterava era uns 2 ou 5 de diferença*/
